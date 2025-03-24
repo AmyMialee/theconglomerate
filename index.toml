@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/enchantmentdisabler-common.toml"
-hash = "82432067e8b5f4a11768bef791fdc0876c899d8e6c99b30716e6a44d50f742a9"
+hash = "7b7eab02c5ab253ce59e92c3163fd2edccd2fc493a355ff2a48a7febf83641ea"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
