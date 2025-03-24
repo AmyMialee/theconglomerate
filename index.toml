@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "aecc04a32af1efd91392dbe5c3e0b4fe3635c1a456cb917afbf218514bb57189"
+hash = "df2039ee0f692bff233fc706c72338bc8f001ce8aa6f80a168eee96adc44bbce"
 
 [[files]]
 file = "resourcepacks/3d-muskets.pw.toml"
