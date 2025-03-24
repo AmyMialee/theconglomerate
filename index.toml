@@ -495,6 +495,10 @@ hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "aecc04a32af1efd91392dbe5c3e0b4fe3635c1a456cb917afbf218514bb57189"
+
+[[files]]
 file = "resourcepacks/3d-muskets.pw.toml"
 hash = "50d0cf4cf6e2d2978698373d93aa339aaf9a1bb5224d5422e0a0313728559964"
 metafile = true
