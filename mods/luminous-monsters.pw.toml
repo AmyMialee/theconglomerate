@@ -1,0 +1,13 @@
+name = "Luminous: Monsters"
+filename = "Luminous Monsters V1.2.62- NeoForge 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TzC3nDsQ/versions/fH1KQMJ6/Luminous%20Monsters%20V1.2.62-%20NeoForge%201.21.1.jar"
+hash-format = "sha512"
+hash = "71ef1584ef15d1f88b324ddaf81d67bf39e89d25088eb2040b05b8ef100aa2e9762eee8ba66ef53bd0d3db9bb74b3cb3a137ba6831808fa3230d9bfabfee46e4"
+
+[update]
+[update.modrinth]
+mod-id = "TzC3nDsQ"
+version = "fH1KQMJ6"

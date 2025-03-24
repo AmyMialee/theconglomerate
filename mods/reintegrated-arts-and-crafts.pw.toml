@@ -1,0 +1,13 @@
+name = "Reintegrated: Arts and Crafts"
+filename = "reintegrated_arts_and_crafts-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kqm3ZqFI/versions/TvgpTb5R/reintegrated_arts_and_crafts-1.0.0.jar"
+hash-format = "sha512"
+hash = "f497912b468349fb2d3b45862a328d5e82e4ee14c492992e806aefedec74c0a057ade90f7821ba7b12897ed13077d722f234c2cff09224e889afd4184be5c545"
+
+[update]
+[update.modrinth]
+mod-id = "Kqm3ZqFI"
+version = "TvgpTb5R"
