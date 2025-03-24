@@ -1,0 +1,13 @@
+name = "Slightly Better Foliage Colors"
+filename = "Slightly Better Foliage Colors - v1.1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rxIBYqrN/versions/ghlY4L9a/Slightly%20Better%20Foliage%20Colors%20-%20v1.1.4.zip"
+hash-format = "sha512"
+hash = "cb4b45ab324b9c286365a3e8272c8480d8be554f5fad3b22796b515749f941598983d782adf02684d6d188bd5e3f307e35c44b276e0d6b922feae191a234ec15"
+
+[update]
+[update.modrinth]
+mod-id = "rxIBYqrN"
+version = "ghlY4L9a"

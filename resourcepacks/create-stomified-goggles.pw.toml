@@ -1,0 +1,13 @@
+name = "Create: Stomified Goggles"
+filename = "goggles.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8N41skri/versions/aOzMIitL/goggles.zip"
+hash-format = "sha512"
+hash = "e2dbeedcc4f9accf0bf726d484a4ffbc3571d13274ae2e092599e9b298f9fde0af81f7d3b23fa3230f9a016fb986905c73de80978488921b9bb9e733b12688ca"
+
+[update]
+[update.modrinth]
+mod-id = "8N41skri"
+version = "aOzMIitL"

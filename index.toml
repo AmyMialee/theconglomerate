@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "026955e6b91f6698096955426c4bfc43ab0fa59bf946c4ff845c4753274a5337"
+
+[[files]]
+file = "config/enchantmentdisabler-common.toml"
+hash = "82432067e8b5f4a11768bef791fdc0876c899d8e6c99b30716e6a44d50f742a9"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "70b60dc87321c41bbb217d23d97beb7950d0cf61b6a2bc48e8f1a7ee6d9af784"
 metafile = true
@@ -489,3 +497,92 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a77de9f590f46bce03b939b7d81b4eac280eb972388bdd3ae2f455a12180d6f5"
+
+[[files]]
+file = "resourcepacks/3D-muskets-1.1.zip"
+hash = "f34062daf59140aa8738b8923eda33e7b2d134317cc15343bc80ce4a4e1dee47"
+
+[[files]]
+file = "resourcepacks/3d-muskets.pw.toml"
+hash = "50d0cf4cf6e2d2978698373d93aa339aaf9a1bb5224d5422e0a0313728559964"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Angel's_Weather_Normal.zip"
+hash = "063f72c27afa3ee0ff99fdab7beb3c7bd79d321ad33d4a68a155f5d0e1616c37"
+
+[[files]]
+file = "resourcepacks/Fire_Rekindled.zip"
+hash = "de85603c575762bf0e1c04a17534a8f42a6fb3a5d4018d29ad495759cb7fac1c"
+
+[[files]]
+file = "resourcepacks/NoZ-Fighting-v1.6.zip"
+hash = "d63374809e45f4edddfbd7891f05c0b1a63c794270391a814f3f647607e78250"
+
+[[files]]
+file = "resourcepacks/Re-Simple-Storage.zip"
+hash = "36eff606d39fd0d8622cd6b7fafc821260d3ec64a10893791e5e692495b72d3a"
+
+[[files]]
+file = "resourcepacks/Slightly Better Foliage Colors - v1.1.4.zip"
+hash = "87226d46cc555cef323adc3e1ad43e6572dcbf61e25ee37c5a7876c87231ae7e"
+
+[[files]]
+file = "resourcepacks/angels-weather.pw.toml"
+hash = "a7dd9d5b1e51771c8210a27df6a6b631479ee2b05cef12028612115ee05f1c73"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-stomified-goggles.pw.toml"
+hash = "9746f454359ea2b69ed5271f29efd06cc7d09b442486993e197a3f6751ae8167"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fire-rekindled.pw.toml"
+hash = "930ee1f5d1d2f2350266a9e7e2879aee69e5a0c72919ee20955615a5e760fcf8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/goggles.zip"
+hash = "765d905924c87990ba0cd270930379a977a1a63e8b497a933f05895120a7319d"
+
+[[files]]
+file = "resourcepacks/itemed arrows.zip"
+hash = "72ef4d1e1c1f557c30da6fff8edf91f3b00e9a329d353bdbe2e77f15aa440db9"
+
+[[files]]
+file = "resourcepacks/itemed-arrows.pw.toml"
+hash = "05f8c2c3fd9abaf0a2af1e102fa4b8fda03c175feb336962467aef204d3e476d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/no-z-fighting.pw.toml"
+hash = "4ddc802f3d4bff4886ffd24f7f0b14ccb7b63785c9c065e4765af48b87822e9a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "11c15996efdc69b6361e896039b5544fd5169f50351ba81e43c6bc8bb0b653fd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "c0cc45adba74ba582015f23b8cc3ac7e8923e6f6d88c5356934fed5d7d26b74b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/slightly-better-foliage-colors.pw.toml"
+hash = "e10a321b958e44c8f7be436651961896afdff3f7710e348c2c51f08f66ff6d3e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/§9RAY's §f3D §6Ladders§8§o§k.zip"
+hash = "01fb964203b505aa24547262c7e87b1954580961ae19ca67f5d8078c337f7078"
+
+[[files]]
+file = "resourcepacks/§9RAY's §f3D §6Rails§8§o§k.zip"
+hash = "f78f18e4f5b07d2d4d5485a6e462548e795c95a821b8d4f6b4a8911e7226229d"

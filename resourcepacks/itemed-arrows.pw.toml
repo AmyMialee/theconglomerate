@@ -1,0 +1,13 @@
+name = "Itemed arrows"
+filename = "itemed arrows.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7ZutAWfU/versions/lKWateud/itemed%20arrows.zip"
+hash-format = "sha512"
+hash = "6e0a0416d9dbce6b32ee20526f29204b3879d620ee8d5be6c0bb3fa94796093cad5a706d5e66345831b1014337d2d42bc031110db77d62d7d8ddfde755b731ac"
+
+[update]
+[update.modrinth]
+mod-id = "7ZutAWfU"
+version = "lKWateud"
