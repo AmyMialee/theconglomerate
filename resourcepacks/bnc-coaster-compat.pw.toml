@@ -1,0 +1,13 @@
+name = "BnC Coaster Compat"
+filename = "coastercompat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u0btsBB7/versions/3uL7OEp3/coastercompat.zip"
+hash-format = "sha512"
+hash = "569e4aa01820e1c84780279494f9fbf7f1f3c91bfc24478784c35eb1d4b198604e31dcb6a60bacafecdb1e962e8949f39297fe9428eb9ac4a853c54e766510f1"
+
+[update]
+[update.modrinth]
+mod-id = "u0btsBB7"
+version = "3uL7OEp3"

@@ -55,8 +55,18 @@ hash = "66a565347d7180cccfa48e0601093e901eec74e4a5b56eed67cd32ca3c0cc4cd"
 metafile = true
 
 [[files]]
+file = "mods/better-boat-movement.pw.toml"
+hash = "5d2de64e1107e3a8a8632574e603d3dad4a467f142b5e1ad06356a79f260a49a"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "a80fc504965da9446ce3bc9318507fc5c90653508aea89cbfa344cd12c7b2de7"
+metafile = true
+
+[[files]]
+file = "mods/bovines-and-buttercups.pw.toml"
+hash = "d3b0dd6d53e7abea60afb5bdd17b21bd79e1233d17e99c84ab2d055ef6a1be07"
 metafile = true
 
 [[files]]
@@ -67,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/chimes.pw.toml"
 hash = "5f0d87ae88243df2390d5d8a2b0fdf312382ccae83084c9a1ba807c08fbcc013"
+metafile = true
+
+[[files]]
+file = "mods/chunk-activity-tracker.pw.toml"
+hash = "d71977ecbd4b6e5d59f439a09e9a852ed8a91b922927e44c45114f59ef5cae1a"
 metafile = true
 
 [[files]]
@@ -112,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
+metafile = true
+
+[[files]]
+file = "mods/does-it-tick.pw.toml"
+hash = "782bd2177b75eb643ed9456887d2f141d7353ac6d9704ba36433aa12a62d8144"
 metafile = true
 
 [[files]]
@@ -252,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "b691a244704e1ed5c8d4916628eb8df447c7fbb5f15c4e51bbd536a0ac1f391e"
 metafile = true
 
 [[files]]
@@ -508,8 +533,18 @@ file = "resourcepacks/Re-Simple-Storage.zip"
 hash = "36eff606d39fd0d8622cd6b7fafc821260d3ec64a10893791e5e692495b72d3a"
 
 [[files]]
+file = "resourcepacks/adjusted-grip.pw.toml"
+hash = "728f20e3eea3c23632dd0d80b8fc774596cec5100c4cac5013fa8d0ad1eea13f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/angels-weather.pw.toml"
 hash = "a7dd9d5b1e51771c8210a27df6a6b631479ee2b05cef12028612115ee05f1c73"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bnc-coaster-compat.pw.toml"
+hash = "62348c8ac0a4f7ab2719ff70ae1ec132cd543458566fcdce9c36cfc3e66af513"
 metafile = true
 
 [[files]]

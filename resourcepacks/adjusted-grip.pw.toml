@@ -1,0 +1,13 @@
+name = "Adjusted Grip"
+filename = "Adjusted Grip.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6LNRtsPf/versions/9HW6AJpu/Adjusted%20Grip.zip"
+hash-format = "sha512"
+hash = "1b3c15038fb2d720a7a79bcb5defb2a760f195601fc849487b702e766176078eb36e02602104798ba59d1188d7ab7fad632196df8613fd807d5624217b2a9baf"
+
+[update]
+[update.modrinth]
+mod-id = "6LNRtsPf"
+version = "9HW6AJpu"
