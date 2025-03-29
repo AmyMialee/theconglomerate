@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "83e4c486594e796b86e6d44f00626617857f60dcb5da16660e17cdf140215811"
+hash = "e2bcf8bbb03c7e120792f95d97f6c22038ab462a35c855d9475fdb4853760afc"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "66a565347d7180cccfa48e0601093e901eec74e4a5b56eed67cd32ca3c0cc4cd"
+hash = "39fa4b2a7a974569a211e96ca6f100454f15084c4e96200b3d9c304b6c172c75"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "a80fc504965da9446ce3bc9318507fc5c90653508aea89cbfa344cd12c7b2de7"
+hash = "ba120eba886b45b19c587d1b451f68a8e63cdd96e6ac41d1695ed6dfec026fe1"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
-hash = "4fa442ceef3813ea27ecdf07f9129d31ec9fcd6b85c971020144482e6c9b1c95"
+hash = "46b9e4d00af6bd620c077ab79ac02db602d28ce532e6a74e8085b5d7a956099a"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f98bb58144f3b207bc5ebc99d898e1c2557924e27f403e670f491f5ec7d72863"
+hash = "7f22959445f6830022e0dd5e71fb60298648cbc208977061f332f39f468f6fd9"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "78e6623084bd14f68ef1335ae8a419238c4119188b90fd9e71faf45c4f049942"
+hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "643b6f675134f2b2dcf7601cf895a83dbb9ad56b1433e603ba36c8c1fc6c94bf"
+hash = "39801423e2c2323435333a795e038f7d7eb7c19bde86d79c6bfce47dd638aa1e"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "54027603401c42860c29864e4e5e8639516743d2f3d17e51153fd841ffd58f5c"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "758a6e0ca20802b83c96762c6399f7cd107c65260b2330373d46d7fddb69056e"
+hash = "82a5c30ed91d272ee1895376e0d2cf57504b3d9db4aba6547e19eaa344861ada"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "59a575831eaaaf600d5f04891d2e8c34d268eb47c16526dc2c6ba951370becff"
+hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "53b7873e229f9ffd722c84a3e277af26e10ed774d59f459c6e052db771c9620b"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
@@ -455,13 +455,17 @@ hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
 metafile = true
 
 [[files]]
+file = "mods/stayexperiencedneo-1.0-SNAPSHOT.jar"
+hash = "58cf4302c5f92095cdcf01882e04c6ac3fefaedb2f5f48deed016234e1e72229"
+
+[[files]]
 file = "mods/tide.pw.toml"
 hash = "7f8ff3c91f7306a62e65f8d9d431b5c40706cdb63697a39aa1aa54d909000d17"
 metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "912fb7647fb9cdd69e06ef66d16027d5b1c8f440d35dcfd70592763b818351d9"
+hash = "3392d27cd63afd5a0aa9ece981f12a95bcd4c7852e35be66724fb4d113b1d9aa"
 metafile = true
 
 [[files]]
@@ -539,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/angels-weather.pw.toml"
-hash = "a7dd9d5b1e51771c8210a27df6a6b631479ee2b05cef12028612115ee05f1c73"
+hash = "a77c24bc7f20dc813728855b26dee667ee362a593efa9ea6169dad99b179a147"
 metafile = true
 
 [[files]]
