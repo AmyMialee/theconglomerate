@@ -300,11 +300,6 @@ hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
-file = "mods/luminous-monsters.pw.toml"
-hash = "f31c4ac006b40d186c861976fba28a1cc9dc03e7916cf10749969ecbf23c72a9"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
