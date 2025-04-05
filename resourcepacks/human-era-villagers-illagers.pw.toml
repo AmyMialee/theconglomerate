@@ -1,0 +1,13 @@
+name = "Human Era: Villagers & Illagers X Fresh Animations"
+filename = "HumanVillagerOnly[2.986].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u69nu00u/versions/rm3juPDn/HumanVillagerOnly%5B2.986%5D.zip"
+hash-format = "sha512"
+hash = "82801aeffb52d63062faab2f6a3cddaeb51e9ba8acddb5ebf0e16fe5f5a49413cfca2d7860c629a0ab33a36193a0fd73e7d1bf59562a6edaad63152cb830bfb9"
+
+[update]
+[update.modrinth]
+mod-id = "u69nu00u"
+version = "rm3juPDn"

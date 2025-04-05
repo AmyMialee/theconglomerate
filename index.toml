@@ -557,8 +557,18 @@ hash = "930ee1f5d1d2f2350266a9e7e2879aee69e5a0c72919ee20955615a5e760fcf8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/human-era-villagers-illagers.pw.toml"
+hash = "c5fd98496f961891ffc809a00d13e14eb45c087fe80384e7f5b9f75724f80683"
+metafile = true
+
+[[files]]
 file = "resourcepacks/itemed-arrows.pw.toml"
 hash = "05f8c2c3fd9abaf0a2af1e102fa4b8fda03c175feb336962467aef204d3e476d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mute-villagers.pw.toml"
+hash = "ae0a6c34b1fd25d3add86e9a76516c423c73c882f030311d32aa4365143aaca4"
 metafile = true
 
 [[files]]
