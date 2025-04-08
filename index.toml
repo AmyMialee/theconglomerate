@@ -450,6 +450,11 @@ hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
 metafile = true
 
 [[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "7b5e4c6540d0059da5f8b198f52b511f959c5ad2e930218cc764ca0791240fa2"
+metafile = true
+
+[[files]]
 file = "mods/stayexperiencedneo-1.0-SNAPSHOT.jar"
 hash = "58cf4302c5f92095cdcf01882e04c6ac3fefaedb2f5f48deed016234e1e72229"
 
